@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Chirag",
+    "ring": "real",
+    "quadrant": "Person",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "France",
+    "ring": "Paris",
+    "quadrant": "Place",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Fries",
+    "ring": "Fast-Food",
+    "quadrant": "Food",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Water",
+    "ring": "regular",
+    "quadrant": "Drink",
+    "isNew": "FALSE",
+    "description": "test"
+  }
+]
