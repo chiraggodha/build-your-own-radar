@@ -1,29 +1,29 @@
 [
   {
     "name": "Chirag",
-    "ring": "adopt",
-    "quadrant": "tools",
+    "ring": "real",
+    "quadrant": "Person",
     "isNew": "TRUE",
     "description": "test"
   },
   {
-    "name": "Apache Kafka",
-    "ring": "trial",
-    "quadrant": "languages & frameworks",
+    "name": "France",
+    "ring": "Paris",
+    "quadrant": "Place",
     "isNew": "FALSE",
     "description": "test"
   },
   {
-    "name": "Android-x86",
-    "ring": "assess",
-    "quadrant": "platforms",
+    "name": "Fries",
+    "ring": "Fast-Food",
+    "quadrant": "Food",
     "isNew": "TRUE",
     "description": "test"
   },
   {
-    "name": "GrapCloud lift and shifthQL",
-    "ring": "hold",
-    "quadrant": "techniques",
+    "name": "Water",
+    "ring": "regular",
+    "quadrant": "Drink",
     "isNew": "FALSE",
     "description": "test"
   }
